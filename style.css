@@ -1,4 +1,5 @@
 body{
+  padding-top:50px;/*esto lo sumo por el menú */
   background:rgb{225,225,225};
 }
 header,section,aside,footer{
